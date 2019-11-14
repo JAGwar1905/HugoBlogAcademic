@@ -1,0 +1,2 @@
+# HugoBlogAcademic
+Hugo Blog Academic
